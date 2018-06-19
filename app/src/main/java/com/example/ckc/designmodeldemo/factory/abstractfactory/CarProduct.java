@@ -6,5 +6,5 @@ package com.example.ckc.designmodeldemo.factory.abstractfactory;
 
 public abstract class CarProduct {
     public abstract void born();
-    
+
 }
