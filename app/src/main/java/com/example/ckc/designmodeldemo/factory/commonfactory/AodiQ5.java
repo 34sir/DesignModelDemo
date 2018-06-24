@@ -3,7 +3,7 @@ package com.example.ckc.designmodeldemo.factory.commonfactory;
 /**
  * Created by ckc on 18-6-19.
  */
-
+//奥迪Q5
 public class AodiQ5 extends CarProduct {
 
     @Override

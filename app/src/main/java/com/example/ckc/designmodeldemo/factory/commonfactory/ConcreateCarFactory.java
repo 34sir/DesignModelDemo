@@ -3,7 +3,7 @@ package com.example.ckc.designmodeldemo.factory.commonfactory;
 /**
  * Created by ckc on 18-6-19.
  */
-
+//具体汽车工厂
 public class ConcreateCarFactory extends CarFactory {
 
     @Override

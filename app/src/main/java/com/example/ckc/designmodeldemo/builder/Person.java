@@ -23,6 +23,7 @@ public class Person {
 
 
     static class Builder {
+        //Builder需要持有和Person相同的对象
         public String name;
         public int sex;
 

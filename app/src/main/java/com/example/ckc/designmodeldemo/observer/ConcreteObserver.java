@@ -4,6 +4,7 @@ package com.example.ckc.designmodeldemo.observer;
  * Created by ckc on 18-6-19.
  */
 
+//具体观察者
 public class ConcreteObserver implements Observer{
     String msg;
     @Override

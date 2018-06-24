@@ -5,8 +5,9 @@ package com.example.ckc.designmodeldemo.builder;
  */
 
 public class Test {
-    public static void main(String [] args){
-        Person person=new Person.Builder().setName("34sir").setSex(1).build();
-        System.out.println("person::name="+person.getName()+"---person::sex="+person.getSex());
+    public static void main(String[] args) {
+        // 达到链式调用的效果
+        Person person = new Person.Builder().setName("34sir").setSex(1).build();
+        System.out.println("person::name=" + person.getName() + "---person::sex=" + person.getSex());
     }
 }
